@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BattleshipRoyale.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -35,7 +36,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
@@ -44,6 +45,7 @@
     <configuration name="BattleshipRoyale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.app.BattleshipRoyale" />
       <module name="BattleRoyale" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/../javasdks/javafx-sdk-24/lib --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.app.*" />
@@ -77,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728912838636</updated>
       <workItem from="1728912840120" duration="240000" />
-      <workItem from="1729249920566" duration="1312000" />
+      <workItem from="1729249920566" duration="3854000" />
     </task>
     <servers />
   </component>
